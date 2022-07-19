@@ -5,7 +5,7 @@ namespace WebApi
 {
     public class Book
     {
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)] // id' yi otomatik atamak için kullanılan bir attribute
         public int Id { get; set; }
 
         public string Title { get; set; }
