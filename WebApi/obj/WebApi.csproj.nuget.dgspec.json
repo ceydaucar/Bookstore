@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELLNTB\\Dropbox\\My PC (CEYDAUCAR-PC)\\Desktop\\Pratikler\\BookStore\\WebApi\\WebApi.csproj": {}
+    "C:\\Users\\DELLNTB\\Desktop\\Pratikler\\BookStore\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELLNTB\\Dropbox\\My PC (CEYDAUCAR-PC)\\Desktop\\Pratikler\\BookStore\\WebApi\\WebApi.csproj": {
+    "C:\\Users\\DELLNTB\\Desktop\\Pratikler\\BookStore\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELLNTB\\Dropbox\\My PC (CEYDAUCAR-PC)\\Desktop\\Pratikler\\BookStore\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\DELLNTB\\Desktop\\Pratikler\\BookStore\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "C:\\Users\\DELLNTB\\Dropbox\\My PC (CEYDAUCAR-PC)\\Desktop\\Pratikler\\BookStore\\WebApi\\WebApi.csproj",
+        "projectPath": "C:\\Users\\DELLNTB\\Desktop\\Pratikler\\BookStore\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\DELLNTB\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELLNTB\\Dropbox\\My PC (CEYDAUCAR-PC)\\Desktop\\Pratikler\\BookStore\\WebApi\\obj\\",
+        "outputPath": "C:\\Users\\DELLNTB\\Desktop\\Pratikler\\BookStore\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELLNTB\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,6 +60,10 @@
               "target": "Package",
               "version": "[5.0.6, )"
             },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
@@ -83,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
         }
       }
     }

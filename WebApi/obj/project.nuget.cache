@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C216KOwKYhRdNUj0NjKGAucQeyj3htksNEaVRMD8vCXbIeLE4bQCNiCIMPl2bK0hX6Do4i23uJ2ozKN8dAMdJw==",
+  "dgSpecHash": "ENGlD6/xcEaGsIIKJDsh+KSADsXJCg+hovrAAWdIF/GiBfwwd3O6QeAD1CHiH7bQMVfS/oM9SWIUHLaboGvHWQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELLNTB\\Dropbox\\My PC (CEYDAUCAR-PC)\\Desktop\\Pratikler\\BookStore\\WebApi\\WebApi.csproj",
+  "projectFilePath": "C:\\Users\\DELLNTB\\Desktop\\Pratikler\\BookStore\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELLNTB\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\DELLNTB\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
@@ -22,6 +22,7 @@
     "C:\\Users\\DELLNTB\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\DELLNTB\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\DELLNTB\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\DELLNTB\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\DELLNTB\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\DELLNTB\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "C:\\Users\\DELLNTB\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
